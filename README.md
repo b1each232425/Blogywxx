@@ -54,6 +54,12 @@ Nginx 配置示例见：
 deploy/nginx-personal-site.conf
 ```
 
+完整部署流程说明见：
+
+```text
+deploy/deployment-guide.md
+```
+
 竞赛系统前端建议用 `/compemanage/` 作为 Vite base 重新构建：
 
 ```bash
